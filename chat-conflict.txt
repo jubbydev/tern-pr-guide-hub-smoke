@@ -1,5 +1,5 @@
 line one
 line two
-line three
+line three, as the topic branch wants it
 line four
 line five
