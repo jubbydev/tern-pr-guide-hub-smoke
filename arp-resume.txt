@@ -1,4 +1,4 @@
 resume test base 1791913181
 line two from the PR
 line two from base
-line three
+line three from the PR
