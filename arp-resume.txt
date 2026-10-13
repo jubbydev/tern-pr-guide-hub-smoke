@@ -1,3 +1,3 @@
 resume test base 1791913181
-line two
+line two from base
 line three
